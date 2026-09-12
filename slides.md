@@ -1,4 +1,4 @@
-[![Alt text](image_url)](destination_url)
+[![Home](res/labs-text-logo-0250x46.png)](index)
 
 # LetsGo Slides for Google Slides™
 
