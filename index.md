@@ -19,7 +19,7 @@ Get started for free, no subscription required.
 	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="250"/>
 </a>
 
-[##Supercharge Google Slides™](slides)
+[## Supercharge Google Slides™](slides)
 
 It’s not just for presentations anymore. With LetsGo Slides, you can brainstorm with AI, compile research, create original graphics and pictures, or even create an investor pitch deck. Turn Google Slides™ into your AI-powered creative studio. 
 <br>
