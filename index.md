@@ -3,7 +3,7 @@
 ## Our Story
 LetsGo Labs is an AI solutions company. Our AI orchestration method integrates the best AI with popular applications to amplify human expression and creativity. Our mission is to put AI to work for people, helping them find their professional, personal, and creative voice. 
 
-[## Introducing: LetsGoSlides for Microsoft PowerPoint™](powerpoint)
+## [Introducing: LetsGoSlides for Microsoft PowerPoint™](powerpoint)
 
 Now you can do more with Microsoft PowerPoint™. LetsGo Slides is available in the Microsoft Marketplace.
 
