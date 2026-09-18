@@ -30,6 +30,7 @@ LetsGo Slides automatically detects the dimensions of the slide and the optimal 
 
 All the images you create with LetsGo Slides are yours to keep. We make it easy for you to share them with a link, post on LinkedIn, or download to your computer. 
 
+---
 [Privacy](privacy-policy)
 &nbsp;
 [Terms](terms)
