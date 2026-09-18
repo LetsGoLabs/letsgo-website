@@ -29,3 +29,14 @@ LetsGo Slides has the most intuitive AI image generation experience out there. I
 LetsGo Slides automatically detects the dimensions of the slide and the optimal aspect ratio for the image and handles it all for you automatically. You also get to choose from normal, fast, and high quality AI models to create your images. 
 
 All the images you create with LetsGo Slides are yours to keep. We make it easy for you to share them with a link, post on LinkedIn, or download to your computer.
+
+[Privacy](privacy-policy)
+&nbsp;
+[Terms](terms)
+&nbsp;
+[FAQ](faq)
+&nbsp;
+[Contact](contact)
+&nbsp;
+Copyright ©2026 LetsGo Labs Inc
+
