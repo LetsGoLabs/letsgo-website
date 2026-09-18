@@ -7,7 +7,12 @@ Our core technology integrates frontier models with an orchestration layer desig
 
 ## [Artificial Humor](humor)
 
-Copy Copy
+**Project Status:** Prototype  
+**Current Version:** 0.4.1
+**Public Access:** Read only
+
+***Description:*** We’re training AI to generate genuinely humorous content in multiple comedic styles. From satire to parody, we develop personas and integrations with multiple LLMs to push the current boundaries of AI humor. 
+
  
 ## [Introducing: LetsGoSlides for Microsoft PowerPoint™](powerpoint)
 
