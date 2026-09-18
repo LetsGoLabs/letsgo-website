@@ -1,7 +1,9 @@
 [![Home](res/labs-text-logo-0250x46.png)](index)
 
 ## Our Story
-LetsGo Labs is an AI solutions company. Our AI orchestration method integrates the best AI with popular applications to amplify human expression and creativity. Our mission is to put AI to work for people, helping them find their professional, personal, and creative voice. 
+LetsGo Labs is an AI lab focused on developing AI integrations that amplify human expression and creativity. We experiment with the best frontier models to develop novel ways for people to use artificial intelligence. 
+
+Our core technology integrates frontier models with an orchestration layer designed to cultivate and support creativity and authentic expression. Below you can see the projects we’re working on. Take a look, give them a spin, and reach out to us if you want to talk about them. 
 
 ## [Introducing: LetsGoSlides for Microsoft PowerPoint™](powerpoint)
 
