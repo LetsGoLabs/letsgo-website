@@ -1,3 +1,5 @@
+[![Home](res/labs-text-logo-0250x46.png)](index)
+
 # Terms of Service.
 **Last updated September 1, 2026**
 
