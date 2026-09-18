@@ -5,13 +5,24 @@ LetsGo Labs is an AI lab focused on developing AI integrations that amplify huma
 
 Our core technology integrates frontier models with an orchestration layer designed to cultivate and support creativity and authentic expression. Below you can see the projects we’re working on. Take a look, give them a spin, and reach out to us if you want to talk about them. 
 
-## [Artificial Humor](humor)
+## Artificial Humor
 
 **Project Status:** Prototype  
+
 **Current Version:** 0.4.1
+
 **Public Access:** Read only
 
-***Description:*** We’re training AI to generate genuinely humorous content in multiple comedic styles. From satire to parody, we develop personas and integrations with multiple LLMs to push the current boundaries of AI humor. 
+**Description:** We’re training AI to generate genuinely humorous content in multiple comedic styles. From satire to parody, we develop personas and integrations with multiple LLMs to push the current boundaries of AI humor. 
+
+**How it Works:** Each day the system pulls a relevant news item from an assigned domain like technology, or local news. It then generates a “card” which includes the headline, a line of commentary and a cartoon. Critically, the system generates an additional 10+ lines of commentary in different comedic styles. Once the user selects a line, the system emails a final version of the card to the user. 
+
+**How to Use It:** Coming soon
+
+
+* Link to image from Overlord
+* Link to image from Sudbury weekly
+* https://sudburyweekly.com/wp-content/uploads/2026/06/Mosquito-Spraying.png
 
  
 ## [Introducing: LetsGoSlides for Microsoft PowerPoint™](powerpoint)
