@@ -1,6 +1,6 @@
 [![Home](res/labs-text-logo-0250x46.png)](index)
 
-## Our Story
+# Our Story
 LetsGo Labs is an AI lab focused on developing AI integrations that amplify human expression and creativity. We experiment with the best frontier models to develop novel ways for people to use artificial intelligence. 
 
 Our core technology integrates frontier models with an orchestration layer designed to cultivate and support creativity and authentic expression. Below you can see the projects we’re working on. Take a look, give them a spin, and reach out to us if you want to talk about them. 
