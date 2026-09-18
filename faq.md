@@ -1,3 +1,5 @@
+[![Home](res/labs-text-logo-0250x46.png)](index)
+
 # About LetsGo Labs  
 ## What does LetsGo Labs do? 
 LetsGo Labs integrates artificial intelligence with the applications that people use every single day. In 2025, we realized that most applications treat AI like an add-on conversational interface, but those interfaces are polarizing, often disrupting your workflows and reducing trust. Rather than waiting around for someone to fix it, we decided to do it ourselves. 
