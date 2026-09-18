@@ -1,13 +1,14 @@
-<img src="res/labs-text-logo-0250x46.png"/>
-<br>
+[![Home](res/labs-text-logo-0250x46.png)](index)
+
 ## Our Story
 LetsGo Labs is an AI solutions company. Our AI orchestration method integrates the best AI with popular applications to amplify human expression and creativity. Our mission is to put AI to work for people, helping them find their professional, personal, and creative voice. 
-<br>
-### Introducing: LetsGoSlides for Microsoft PowerPoint™
+
+## Introducing: LetsGoSlides for Microsoft PowerPoint™
+
 Now you can do more with Microsoft PowerPoint™. LetsGo Slides is available in the Microsoft Marketplace.
-<br>
+
 Create presentations with a single click, edit everything, and generate images that make your presentations top-notch.  
-<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EufgNK6MHRo?si=PC-5kDJSH6eoW6ve" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
 <br>
@@ -17,8 +18,8 @@ Get started for free, no subscription required.
 <a href="https://marketplace.microsoft.com/en-us/product/WA200009995" target="_self">
 	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="250"/>
 </a>
-<br>
-<h2><a href="slides">Supercharge Google Slides™</a></h2>
+
+[## Supercharge Google Slides™](slides)
 It’s not just for presentations anymore. With LetsGo Slides, you can brainstorm with AI, compile research, create original graphics and pictures, or even create an investor pitch deck. Turn Google Slides™ into your AI-powered creative studio. 
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GFJ9NRT9e2s?si=DIZb5JW1106DrKni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -32,18 +33,15 @@ Get started for free, no subscription required.
 </a>
 <br>
 
-<hr>
-<a href="privacy-policy.md">Privacy</a>
+[Privacy](privacy-policy)
+
 &nbsp;
-<a href="terms">Terms</a>
-&nbsp;
-<a href="faq">FAQ</a>
-&nbsp;
-<a href="contact">Contact</a>
-&nbsp;
+[Terms](terms)
+[FAQ](faq)
+[Contact](contact)
 &nbsp;
 Copyright ©2026 LetsGo Labs Inc
-<br>
+
 
 
 
