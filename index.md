@@ -5,6 +5,10 @@ LetsGo Labs is an AI lab focused on developing AI integrations that amplify huma
 
 Our core technology integrates frontier models with an orchestration layer designed to cultivate and support creativity and authentic expression. Below you can see the projects we’re working on. Take a look, give them a spin, and reach out to us if you want to talk about them. 
 
+## [Artificial Humor](humor)
+
+Copy Copy
+ 
 ## [Introducing: LetsGoSlides for Microsoft PowerPoint™](powerpoint)
 
 Now you can do more with Microsoft PowerPoint™. LetsGo Slides is available in the Microsoft Marketplace.
