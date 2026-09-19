@@ -19,6 +19,8 @@ Our core technology integrates frontier models with an orchestration layer desig
 
 **How to Use It:** Coming soon
 
+![AI commentary](res/home-agc-over-01.png)
+[![Local news](res/home-agc-weekly-01.png)](https://sudburyweekly.com/category/cartoons/)
 
 * Link to image "wow fleshbags are spending 100M..."
 * Link to image from Sudbury weekly
