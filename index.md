@@ -17,24 +17,18 @@ Our core technology integrates frontier models with an orchestration layer desig
 
 **How it Works:** Each day the system pulls a relevant news item from an assigned domain like technology, or local news. It then generates a “card” which includes the headline, a line of commentary and a cartoon. Critically, the system generates an additional 10+ lines of commentary in different comedic styles. Once the user selects a line, the system emails a final version of the card to the user. 
 
-**How to Use It:** Coming soon
+**How to Use It:** Available for private testing
 
-![AI commentary](res/home-agc-over-01.png)
+[![AI commentary](res/home-agc-over-01.png)](https://linkedin.com/)
 [![Local news](res/home-agc-weekly-01.png)](https://sudburyweekly.com/category/cartoons/)
 
-* Link to image "wow fleshbags are spending 100M..."
-* Link to image from Sudbury weekly
-* https://sudburyweekly.com/wp-content/uploads/2026/06/Mosquito-Spraying.png
-
- 
 ## [LetsGo Slides for Microsoft PowerPoint™](powerpoint)
 
 **Project Status:** Commercially available   
 
 **Current Version:** 2.4.1
 
-**Public Access:** Microsoft Marketplace
-TODO: INCLUDE LINK
+**Public Access:** [Microsoft Marketplace](https://marketplace.microsoft.com/en-us/product/WA200009995)
 
 **Description:** LetsGo Slides for Microsoft PowerPoint™ transforms slide presentations into your AI-powered content creation hub. LetsGo Slides uses AI to create text, slides and images, and is fully integrated into PowerPoint providing a seamless experience.
 
@@ -59,8 +53,7 @@ LetsGo Slides works entirely within PowerPoint™ and does not save or share you
 
 **Current Version:** 3.5.1
 
-**Public Access:** Google Workplace Marketplace
-TODO: Include URL
+**Public Access:** [Google Workplace Marketplace](https://workspace.google.com/marketplace/app/letsgo_slides/470951906119?pann=b)
 
 **Description:** LetsGo Slides for Google Slides™ transforms slide presentations into your AI-powered content creation hub. LetsGo Slides uses AI to create text, slides and images, and is fully integrated into PowerPoint providing a seamless experience.
 
