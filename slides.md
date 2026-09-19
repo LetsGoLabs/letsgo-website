@@ -6,6 +6,9 @@
 LetsGo Slides brings the power of artificial intelligence into Google Slides™ and Microsoft PowerPoint™. With LetsGo Slides, you can create slides, add AI-generated images, or reword and translate text with a single click, all without leaving your slide presentation.
 
 LetsGo Slides is available in the Google Workplace Marketplace and the Microsoft Marketplace. Every new account comes with free credits to get you started.
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFJ9NRT9e2s?si=DIZb5JW1106DrKni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br>
 
 ## Presentations
 LetsGo Slides can create an entire presentation based on the text from your presentation title. Each presentation includes original text, images, speakers notes and citations, and professional-quality formatting. 
