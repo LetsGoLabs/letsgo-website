@@ -69,19 +69,12 @@ LetsGo Slides works entirely within Google Slides™, and does not save or share
 <br>
 
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFJ9NRT9e2s?si=DIZb5JW1106DrKni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<br>
-<br>
-<br>
 <a href="https://workspace.google.com/marketplace/app/letsgo_slides/470951906119?pann=b" target="_blank" aria-label="Get it from the Google Workspace Marketplace">
   <img alt="Google Workspace Marketplace badge" alt-text="Get it from the Google Workspace Marketplace" src="https://workspace.google.com/static/img/marketplace/en/gwmBadge.svg?" style="height: 50px">
 </a>
-
-
-
-
-
 <br>
+
+***
 
 [Privacy](privacy-policy)
 &nbsp;
